@@ -1,0 +1,15 @@
+Road
+Avenue
+Boulevard
+Street
+Path
+Highway
+Skyway
+Way
+Railway
+Lane
+Alley
+Drive
+Route
+Subway
+Expressway
